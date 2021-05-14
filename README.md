@@ -2,7 +2,7 @@
 
 We have 2 projects and using spring cloud i will connect them
 
-This course it is parto for 
+This course it is part for...
 
 [Srping Boot](https://github.com/JasonLimonB/springbootMay)
 
